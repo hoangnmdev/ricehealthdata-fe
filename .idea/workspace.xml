@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d1021a2-cd4a-413e-be5b-ce6353c6c7cc" name="Changes" comment="Fix Dropbox size">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YUftzUrTJkJ1vrHXBfleHTsoB6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nguyennam/WebstormProjects/ricehealthdata-fe/my-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/nguyennam/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d1021a2-cd4a-413e-be5b-ce6353c6c7cc" name="Changes" comment="" />
+      <created>1700585297314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700585297314</updated>
+      <workItem from="1700585298453" duration="69000" />
+      <workItem from="1700585395316" duration="1461000" />
+      <workItem from="1701107238658" duration="10502000" />
+      <workItem from="1701428984346" duration="1543000" />
+      <workItem from="1701439200188" duration="1477000" />
+      <workItem from="1701689191346" duration="2764000" />
+      <workItem from="1701865975851" duration="10404000" />
+      <workItem from="1701880186648" duration="202000" />
+      <workItem from="1701964437856" duration="22000" />
+      <workItem from="1701964471870" duration="17151000" />
+      <workItem from="1702017494054" duration="9814000" />
+      <workItem from="1702058365686" duration="12000" />
+      <workItem from="1702107479966" duration="16290000" />
+      <workItem from="1702209215548" duration="4000" />
+      <workItem from="1702215712794" duration="4287000" />
+    </task>
+    <task id="LOCAL-00001" summary="Login/Register FE commit">
+      <option name="closed" value="true" />
+      <created>1700585646017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700585646017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LoginApi commit">
+      <option name="closed" value="true" />
+      <created>1700834343599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700834343599</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomePages commit">
+      <option name="closed" value="true" />
+      <created>1701329753166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701329753166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change table type">
+      <option name="closed" value="true" />
+      <created>1701867040584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701867040584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit FE">
+      <option name="closed" value="true" />
+      <created>1701869086049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701869086049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="LoginApi commit">
+      <option name="closed" value="true" />
+      <created>1701879706349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701879706349</updated>
+    </task>
+    <task id="LOCAL-00007" summary="LoginApi commit">
+      <option name="closed" value="true" />
+      <created>1701968513801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701968513801</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ListUsers table">
+      <option name="closed" value="true" />
+      <created>1702048569490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702048569490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1702057213845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702057213845</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix Login page">
+      <option name="closed" value="true" />
+      <created>1702207554915</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702207554915</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Edit Users function">
+      <option name="closed" value="true" />
+      <created>1702218031513</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702218031513</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dropbox Role commit">
+      <option name="closed" value="true" />
+      <created>1702218492955</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702218492955</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix Dropbox size">
+      <option name="closed" value="true" />
+      <created>1702218657793</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702218657793</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Login/Register FE commit" />
+    <MESSAGE value="HomePages commit" />
+    <MESSAGE value="Change table type" />
+    <MESSAGE value="commit FE" />
+    <MESSAGE value="LoginApi commit" />
+    <MESSAGE value="ListUsers table" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Fix Login page" />
+    <MESSAGE value="Edit Users function" />
+    <MESSAGE value="Dropbox Role commit" />
+    <MESSAGE value="Fix Dropbox size" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Dropbox size" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/services/apiCore.js</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
